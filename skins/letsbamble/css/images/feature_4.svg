@@ -1,0 +1,24 @@
+<svg width="51" height="52" viewBox="0 0 51 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="25.5" cy="26.5" r="25.5" fill="white"/>
+<path d="M32.0079 11.347H35.7629C36.1776 11.347 36.5139 11.6972 36.5139 12.1293V23.0817" stroke="black" stroke-linejoin="round"/>
+<path d="M24.498 34.0341H9.47828C9.06352 34.0341 8.72729 33.6839 8.72729 33.2518V12.1293C8.72729 11.6972 9.06352 11.347 9.47828 11.347H13.2332" stroke="black" stroke-linejoin="round"/>
+<path d="M8.72729 17.6544H36.5139" stroke="black" stroke-linejoin="round"/>
+<path d="M30.555 9V13.6939" stroke="black" stroke-linejoin="round"/>
+<path d="M16.2372 11.3958H29.004" stroke="black" stroke-linejoin="round"/>
+<path d="M14.7842 9V13.6939" stroke="black" stroke-linejoin="round"/>
+<path d="M16.9882 21.566H19.2411" stroke="black"/>
+<path d="M20.7431 21.566H22.9961" stroke="black"/>
+<path d="M24.498 21.566H26.751" stroke="black"/>
+<path d="M28.253 21.566H30.506" stroke="black"/>
+<path d="M13.2332 25.4775H15.4862" stroke="black"/>
+<path d="M16.9882 25.4775H19.2411" stroke="black"/>
+<path d="M20.7431 25.4775H22.9961" stroke="black"/>
+<path d="M24.498 25.4775H26.751" stroke="black"/>
+<path d="M13.2332 29.3891H15.4862" stroke="black"/>
+<path d="M16.9882 29.3891H19.2411" stroke="black"/>
+<path d="M20.7431 29.3891H22.9961" stroke="black"/>
+<path d="M32.7589 35.5988C32.7589 36.3811 33.4479 37.1634 34.2778 37.1634H35.7629C36.5927 37.1634 37.2648 36.3811 37.2648 35.5988V35.3621C37.2648 34.7558 36.8593 34.218 36.2463 34.0263L33.7915 33.2596C33.1785 33.0641 32.7589 32.5301 32.7589 31.9238V31.6872C32.7589 30.9049 33.431 30.1226 34.2609 30.1226H35.7629C36.5927 30.1226 37.2648 30.9049 37.2648 31.6872V32.4695" stroke="black"/>
+<path d="M35.0609 30.1226V27.7756" stroke="black"/>
+<path d="M35.0609 37.1634V39.5103" stroke="black"/>
+<path d="M35.0119 41.8182C39.5743 41.8182 43.2728 38.158 43.2728 33.643C43.2728 29.1279 39.5743 25.4678 35.0119 25.4678C30.4496 25.4678 26.751 29.1279 26.751 33.643C26.751 38.158 30.4496 41.8182 35.0119 41.8182Z" stroke="black"/>
+</svg>
