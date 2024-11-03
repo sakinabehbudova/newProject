@@ -7282,7 +7282,7 @@ a:focus {
 .btn-yellow,
 .submit-btn button,
 .navbar-defaultTemplate .navbar-header .menu .button.login a {
-  color: #001600;
+  color: #131313;
   background-color: #fff;
   border: none;
 }
@@ -7362,7 +7362,7 @@ a:focus {
 }
 .btn-black,
 .navbar-defaultTemplate .navbar-header .menu .button.register a {
-  color: #001600;
+  color: #131313;
   background: lime;
   border: none;
 }
@@ -8550,10 +8550,10 @@ html.popup_page {
 }
 .navbar-defaultTemplate .navbar-header .menu .button.register a {
   margin-left: 16px;
-  color: #001600;
+  color: #131313;
 }
 .navbar-defaultTemplate .navbar-header .menu .button.register a:hover {
-  color: #001600;
+  color: #131313;
 }
 .navbar-defaultTemplate .navbar-header .menu .langnav {
   display: none;
@@ -9111,13 +9111,15 @@ footer .back_to_top a:hover i::before {
   padding: 0;
   margin: 0;
   width: 100%;
-  background: radial-gradient(
+  background: url("images/contact_bg.webp") bottom/cover no-repeat;
+
+  /* background: radial-gradient(
     64.06% 64.06% at 50% 50%,
     #00c555 0%,
     #007940 32.45%,
     #004731 64.5%,
     #001c18 100%
-  );
+  ); */
 }
 .popup_page section:not(.popup_cont) .popup {
   width: 100%;
@@ -9228,7 +9230,7 @@ footer .back_to_top a:hover i::before {
 }
 .popup_page footer {
   display: none;
-  background: #001600;
+  background: #131313;
   width: 100%;
 }
 @media screen and (min-width: 768px) {
@@ -9767,7 +9769,7 @@ footer .back_to_top a:hover i::before {
   left: -1px;
   border-radius: 8px;
   border: solid 1px rgba(255, 255, 255, 0.3);
-  background: #001600;
+  background: #131313;
   overflow-x: hidden;
 }
 .popup_page
