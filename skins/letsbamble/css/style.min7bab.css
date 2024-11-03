@@ -10235,7 +10235,7 @@ footer .back_to_top a:hover i::before {
 .home_page section:not(.popup_cont)#home .main-wraper h1::before {
   position: absolute;
   width: 85px;
-  left: 58px;
+  left: -32px;
   top: -52px;
 
   content: "";
@@ -10317,6 +10317,10 @@ footer .back_to_top a:hover i::before {
   text-align: center;
   margin-top: 0;
   margin-bottom: 22px;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
 }
 .home_page section:not(.popup_cont)#home .main-wraper .buttons {
   display: flex;
